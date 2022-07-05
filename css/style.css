@@ -122,7 +122,7 @@ a{
 /* Hero */
 
 .hero{
-  background-color: #0d1117;
+  background-color: #111111;
   position: relative;
   z-index: -1;
   padding: 6rem 0;
@@ -133,7 +133,7 @@ a{
 .hero h1{
   font-family: var(--font-secondary);
   font-size: 4rem;
-  background:-webkit-linear-gradient(360deg, rgb(210, 168, 255) 0%, rgb(247, 120, 186) 15%, rgb(255, 123, 114) 36%);
+  background:-webkit-linear-gradient(360deg, rgb(156, 69, 255) 0%, rgb(255, 104, 255) 15%, rgb(221, 125, 87) 36%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   line-height: 4rem;
